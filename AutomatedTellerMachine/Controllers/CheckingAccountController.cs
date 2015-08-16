@@ -27,12 +27,13 @@ namespace AutomatedTellerMachine.Controllers
             return View(checkingAccount);
         }
 
+        [Authorize(Roles = "Admin")]
         public ActionResult DetailsForAdmin(int id)
         {
-            var checkingAccount = db.CheckingAccounts.Find();
-            return View(checkingAccount);
+            var checkingAccount = db.CheckingAccounts.Find(id);
+            return View("Details" , checkingAccount);
         }
-
+        [Authorize(Roles = "Admin")]
         public ActionResult List()
         {
             return View(db.CheckingAccounts.ToList());

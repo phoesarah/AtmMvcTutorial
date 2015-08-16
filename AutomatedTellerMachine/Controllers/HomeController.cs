@@ -43,7 +43,7 @@ namespace AutomatedTellerMachine.Controllers
             //todo do something with message
             ViewBag.Message = "Ywe got your message.";
 
-            return View();
+            return PartialView("_ContactThanks");
         }
 
         public ActionResult  Serial(string letterCase)

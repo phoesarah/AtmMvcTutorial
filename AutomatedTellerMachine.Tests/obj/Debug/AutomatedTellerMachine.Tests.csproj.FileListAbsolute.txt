@@ -14,7 +14,6 @@ C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\Auto
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.Tests.dll
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.Tests.pdb
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.dll
-C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\Newtonsoft.Json.dll
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Helpers.dll
@@ -34,7 +33,6 @@ C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\Auto
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\EntityFramework.dll
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\AutomatedTellerMachine.pdb
-C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\Newtonsoft.Json.xml
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Helpers.xml
 C:\Users\SArah\Documents\Visual Studio 2015\Projects\AutomatedTellerMachine\AutomatedTellerMachine.Tests\bin\Debug\System.Web.Mvc.xml
